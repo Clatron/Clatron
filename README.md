@@ -6,6 +6,7 @@ Hi, I'm @Clatron. I am a high school student who is interested in lots of areas.
 * Three.js
 * Electron
 * TailwindCSS
+* Vite
 * MUI (Haven't used but will)
 * Ionic (again the same thing)
 * Unity
