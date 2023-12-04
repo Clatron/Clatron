@@ -1,16 +1,13 @@
 # Who am I?
-Hi, I'm @Clatron. I am a high school student who is interested in lots of areas. I mainly focus on <strong>web development.</strong> I mainly develop apps using <b>js</b>, for example: <b>Desktop Apps using Electron.</b> Im also learning python for <b>ml</b> and I want to learn c++. I have also learned about making windows form apps using c# and I really want to get into <b>game development using Unity.</b>
+Hi, I'm @Clatron. I am a high school student who is interested in lots of areas. I mainly focus on <strong>web development.</strong> I develop apps using <b>Next.js</b>.</b> I also use <b>python</b> and learn <b>C++</b> to learn about <strong/>Computer Graphics</strong>.
 
-## Technologies I am familier with:
+## Technologies I am familiar with:
 * React
-* Three.js
-* Electron
+* Next.js
 * TailwindCSS
-* Vite
-* MUI (Haven't used but will)
-* Ionic (again the same thing)
-* Unity
 * Python
+* Java (Spring Framework)
+* C++
 
 ## My Biggest Project So Far:
 My biggest project so far was to make a discord bot with abilities such as <b>playing a sound from youtube</b>, <b>getting responses from OpenAI using gpt-3.5-turbo and DALL-E</b>. And a small <b>website prototype for a home page</b>.
